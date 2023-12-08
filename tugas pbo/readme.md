@@ -19,7 +19,7 @@ Perulangan for disebut counted loop (perulangan yang terhitung), sementara perul
 - Tindak plagiasi tidak akan dinilai
 - Buatlah penjelasan pada tiap section code yang telah dibuat pada file Readme.md di repository github, jelaskan mulai dari penggunaan code, input data & code saat dijalankan serta screenshot saat code dijalankan, tampilkan hasil dalam bentuk tabel jika diperlukan dan buatlah sebagus mungkin.
 
-## Solution statements
+### Solution statements
 
 1. Buatlah perulangan hingga 100 menggunakan Python
 
