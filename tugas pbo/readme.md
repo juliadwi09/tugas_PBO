@@ -67,6 +67,5 @@ for di Python adalah syntax yang digunakan untuk melakukan perulangan berdasarka
 ## Daftar Pustaka
 
 [1] Staff, R. (2023). Tutorial Python While Loop atau Perulangan While. Tutorial Python While Loop atau Perulangan While.
-   https://revou.co/panduan-teknis/python-while-loop 
 [2] Muhardian, A. (2016). Belajar Pemrograman Python: Memahami Perulangan. Belajar Pemrograman Python: Memahami Perulangan.  
 [3] dvernesia. (2017). for Python | Perulangan for pada Python dan Contohnya. for Python | Perulangan for pada Python dan Contohnya.
