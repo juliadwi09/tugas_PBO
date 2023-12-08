@@ -60,11 +60,11 @@ print("Panjang nama barang:", len(barang)): Mencetak panjang (jumlah karakter) d
 print("---"): Mencetak tanda garis sebagai pemisah antar setiap iterasi dalam loop for.
 Sebagai hasilnya, program akan mencetak nama dan panjang (jumlah karakter) dari setiap barang dalam list barang_list dan memisahkan setiap barang dengan tanda garis. Proses ini akan diulangi untuk setiap barang dalam list.
 
-## Conclusion
+### Conclusion
 
 for di Python adalah syntax yang digunakan untuk melakukan perulangan berdasarkan interval yang ditentukan pengguna. Perulangan for pada bahasa pemrograman Python mempunyai kelebihan yang tidak hanya berdasarkan range bilangan, juga termasuk perulangan terhadap item suatu urutan (list atau string). sedangkan while Perulangan while adalah salah satu tipe loop atau perulangan dalam Python yang memungkinkan kita menjalankan blok kode berulang kali selama kondisi yang ditentukan masih memenuhi.
 
-## Daftar Pustaka
+### Daftar Pustaka
 
 
 [1] [Staff, R. (2023). Tutorial Python While Loop atau Perulangan While. Tutorial Python While Loop atau Perulangan While.](https://revou.co/panduan-teknis/python-while-loop)  
