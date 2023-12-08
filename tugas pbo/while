@@ -1,0 +1,14 @@
+# Meminta pengguna memasukkan angka
+angka = int(input("Masukkan angka: "))
+
+# Validasi input
+if angka <= 0:
+    print("Masukkan angka positif yang lebih besar dari 0.")
+else:
+    # Loop while untuk menentukan apakah angka genap atau ganjil
+    while angka > 0:
+        if angka % 2 == 0:
+            print(f"{angka} adalah angka genap")
+        else:
+            print(f"{angka} adalah angka ganjil")
+        angka -= 1
