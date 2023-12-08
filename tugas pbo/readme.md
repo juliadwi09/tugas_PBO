@@ -1,6 +1,4 @@
-<a href=" https://github.com/juliadwi09"><img src="https://img.shields.io/badge/GitHub-Profile-lightgrey?logo=github" alt="Github"></a>
-
-PERULANGAN MENGGUNAKAN PYTHON
+# _PERULANGAN MENGGUNAKAN PYTHON_
 
 ### Project Overview
 
